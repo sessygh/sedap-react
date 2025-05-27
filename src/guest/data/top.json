@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Nasi Goreng Spesial",
+      "price": 25000,
+      "image": "/img/nasgor.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Mie Ayam",
+      "price": 22000,
+      "image": "/img/miaym.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Sate Ayam Madura",
+      "price": 30000,
+      "image": "/img/sate.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Rendang Padang",
+      "price": 35000,
+      "image": "/img/rndng.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Gado-Gado",
+      "price": 28000,
+      "image": "/img/gado.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Nasi Uduk",
+      "price": 15000,
+      "image": "/img/uduk.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Ikan Bakar",
+      "price": 27000,
+      "image": "/img/ikan.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Soto Ayam Lamongan",
+      "price": 24000,
+      "image": "/img/soto.jpeg"
+    }
+  ]
+  

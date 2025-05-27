@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Rina Marlina",
+      "image": "/img/org2.jpeg",
+      "message": "Makanannya enak banget! Pelayanannya cepat dan ramah. Pasti langganan terus."
+    },
+    {
+      "id": 2,
+      "name": "Andi Wijaya",
+      "image": "/img/org.jpg",
+      "message": "Saya suka variasi menunya. Cocok untuk makan siang di kantor. Harga juga bersahabat."
+    },
+    {
+      "id": 3,
+      "name": "Citra Lestari",
+      "image": "/img/org2.jpeg",
+      "message": "Packaging-nya rapi dan higienis. Rasa makanannya autentik dan memuaskan!"
+    },
+    {
+      "id": 4,
+      "name": "Bayu Prasetyo",
+      "image": "/img/org.jpg",
+      "message": "Sedap jadi solusi makan sehat dan praktis buat saya yang sibuk. Highly recommended!"
+    },
+    {
+      "id": 5,
+      "name": "Laila Sari",
+      "image": "/img/org2.jpeg",
+      "message": "Menu bervariasi setiap minggu bikin nggak bosan. Anak-anak juga suka!"
+    },
+    {
+      "id": 6,
+      "name": "Taufik Hidayat",
+      "image": "/img/org.jpg",
+      "message": "Saya sering order untuk event kantor. Semua puas, dari rasa sampai penyajiannya."
+    }
+  ]

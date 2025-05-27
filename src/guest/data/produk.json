@@ -1,0 +1,51 @@
+[
+    {
+      "kode_produk": "PRD001",
+      "nama_produk": "Nasi Goreng Spesial",
+      "harga": 25000,
+      "stok": 20
+    },
+    {
+      "kode_produk": "PRD002",
+      "nama_produk": "Mie Ayam",
+      "harga": 22000,
+      "stok": 15
+    },
+    {
+      "kode_produk": "PRD003",
+      "nama_produk": "Sate Ayam Madura",
+      "harga": 30000,
+      "stok": 10
+    },
+    {
+      "kode_produk": "PRD004",
+      "nama_produk": "Rendang Padang",
+      "harga": 35000,
+      "stok": 8
+    },
+    {
+      "kode_produk": "PRD005",
+      "nama_produk": "Gado-Gado",
+      "harga": 28000,
+      "stok": 12
+    },
+    {
+      "kode_produk": "PRD006",
+      "nama_produk": "Nasi Uduk",
+      "harga": 15000,
+      "stok": 0
+    },
+    {
+      "kode_produk": "PRD007",
+      "nama_produk": "Ikan Bakar",
+      "harga": 27000,
+      "stok": 5
+    },
+    {
+      "kode_produk": "PRD008",
+      "nama_produk": "Soto Ayam Lamongan",
+      "harga": 24000,
+      "stok": 18
+    }
+  ]
+  
