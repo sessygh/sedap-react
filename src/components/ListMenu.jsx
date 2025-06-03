@@ -44,6 +44,12 @@ export default function ListMenu() {
                     Products
                 </NavLink>
                 </li>
+                <li>
+                <NavLink id="menu-4" to="/notes" className={menuClass}>
+                    <BiNotepad className="mr-4 text-xl" />
+                    Notes
+                </NavLink>
+                </li>
 
                 {/* <li> */}
                 {/* <NavLink id="menu-4" to="/error400" className={menuClass}>

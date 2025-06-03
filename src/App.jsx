@@ -41,6 +41,8 @@ const Forgot = React.lazy(() => import("./pages/auth/Forgot"));
 const MainLayout = React.lazy(() => import("./layouts/MainLayout"));
 const AuthLayout = React.lazy(() => import("./layouts/AuthLayout"));
 const UserList = React.lazy(() => import("./pages/UserList"));
+const Notes = React.lazy(() => import("./pages/Notes"));
+
 
 function App() {
   return (
@@ -60,6 +62,7 @@ function App() {
           <Route path="/addcustomers" element={<AddCustomers />} />
           <Route path="/products" element={<Products />} />
           <Route path="/products/:id" element={<ProductDetail />} /> 
+          <Route path="/notes" element={<Notes />} />
         </Route>
         <Route path="*" element={<ErrorPage />} />
         <Route element={<AuthLayout />}>
